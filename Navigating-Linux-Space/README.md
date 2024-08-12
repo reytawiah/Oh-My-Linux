@@ -32,4 +32,14 @@ cd -  -> change to the last visited path
 >> /home/kdoc
 
 
-![alt text](image-1.png)
+PRACTICALS
+
+Change directory to /tmp
+Move to parent directory
+Change directory to home directory
+Move to parent directory
+Move again to parent directory
+Where are you at? Verify with a command
+Change to last visited directory
+
+![alt text](image.png)
